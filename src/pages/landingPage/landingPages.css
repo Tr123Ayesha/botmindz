@@ -338,6 +338,8 @@ padding-right: 5%;
     backdrop-filter: blur(34px) !important;
     margin-bottom: 72px;
 }
+
+
 .div6right{
     display: flex;
     flex-direction: column;
@@ -372,9 +374,10 @@ padding-right: 5%;
     font-weight: 500;
     line-height: 28.11px;
     color: rgba(255, 255, 255, 1);
+    margin-bottom: 0;
 }
 .teamPara{
-
+    margin-bottom: 0;
     width: 70%;
     font-family:'Poppins' ;
     font-size:55px ;
@@ -385,6 +388,625 @@ padding-right: 5%;
 .scientists{
     color: rgba(0, 243, 182, 1);
 }
+.div7boxes{
+    padding-top: 75px;
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+}
+.div7box {
+    width: 30%;
+    padding-top: 61px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 53.5px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50px 0px 50px 0px;
+    background-image: url('../../assets/blurRectangle.svg');
+    background-repeat: no-repeat; 
+    background-position: top center; 
+    gap: 39px;
+}
+.machineee{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28.11px;
+   color:  rgba(255, 255, 255, 1);
+   margin-bottom: 15px;
+}
+.inPublishingg{
+    margin-bottom: 0px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.89px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.socialMedia{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.div8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.testimonial{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.succour{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 67px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.customerbetter{
+    color: rgba(0, 243, 182, 1);
+}
+.div8para{
+font-family: 'Plus Jakarta Sans';
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 75px;
+
+}
+.div8Rowboxes{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    gap: 42px;
+}
+.div8box{
+    border-radius: 50px 0px 50px 0px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    padding: 60px 30px 60px 30px;
+    backdrop-filter: blur(34px) !important;
+    gap: 50px;
+    width: 100%;
+}
+.para8{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 50px;
+}
+.div8Images{
+    display: flex;
+    justify-content: space-between;
+}
+.div9{
+    display: flex;
+    flex-direction: column;
+    padding-top: 72px;
+    justify-content: center;
+    align-items: center;
+}
+.project9{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.ourproject9{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 67px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 0;
+}
+.project99{
+    color: rgba(0, 243, 182, 1);
+    
+}
+.div9boxess{
+    padding-top: 75px;
+    display: flex;
+    gap: 115px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.div9box{
+    display: flex;
+    justify-content: flex-start;
+    text-align: start;
+    align-items: flex-start;
+   
+}
+.div9testimonial{
+    text-align: start;
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;   
+}
+.div9boxpara{
+font-family: 'Plus Jakarta Sans';
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+color: rgba(255, 255, 255, 1);
+}
+.divbox9para{
+    padding-top: 68px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.div10{
+    padding-top: 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div10pricing{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+}
+.div10our{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 67px;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 75px;
+}
+.div10plan{
+    color: rgba(0, 243, 182, 1);
+}
+.div10box{
+    display: flex;
+    flex-direction: column;
+    border-radius: 50px 0px 50px 0px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    padding: 55px 155px 55px 155px;
+    backdrop-filter: blur(34px) !important;
+    width: 100%;
+}
+.div10row{
+    display: flex;
+    gap: 60px;
+}
+.Premium{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 35px;
+}
+.dollar{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 67px;
+    color: rgba(255, 255, 255, 1); 
+    margin-bottom: 20px; 
+}
+.div10paras{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-bottom: 50px;
+}
+.div10para{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.dot{
+    height: 12px;
+    width:12px ;
+    background-color: rgba(0, 243, 182, 1);
+    border-radius: 50%;
+}
+.dotpara{
+    font-family: 'Plus Jakarta Sans';
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 0;
+}
+.GetaQuote{
+    width: 90%;
+    background-color: #0000;
+    border: 0.77px solid rgba(255, 255, 255, 1);
+       color: white;
+       border-radius: 38.41px 0 38.41px 0;
+       font-family: "Plus Jakarta Sans";
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 22.68px;
+       padding: 21px 41px;
+       cursor: pointer;
+
+       color: rgba(0, 243, 182, 1) !important;
+}
+.div11{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.div11text{
+    width: 100%;
+}
+.div11image{
+    width: 100%;
+}
+.FAQ{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px  
+}
+.robots{
+font-family: 'Poppins';
+font-size: 55px;
+font-weight: 600;
+line-height: 67px;
+color: rgba(255, 255, 255, 1); 
+margin-bottom: 25px; 
+}
+.enhansing{
+    color: rgba(0, 243, 182, 1);
+}
+.loremIpsumdiv{
+    padding-top: 21.22px;
+    padding-bottom: 22.22px;
+    padding-left: 36px;
+    border-radius: 20.5px;
+    border: 1px solid rgba(0, 243, 182, 1);
+}
+.loremPara{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 0; 
+}
+.div11paraaa{
+    padding-top: 25px;
+    font-family: "Plus Jakarta Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22.68px;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 45px;
+}
+.oremparas{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.plsdiv{
+   padding-left: 37.5px;
+   padding-right: 37.5px;
+   padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.plsdiv::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px; /* Adjust thickness of the bottom border */
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0) 100%);
+   
+}
+.plsdiv p{
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 0; 
+}
+.div12{
+    display: flex;
+    padding-top: 72px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.div12image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div12Text{
+    width: 100%;
+}
+.contect{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px; 
+}
+.stayCalm{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 61.6px;
+    color: rgba(255, 255, 255, 1); 
+    margin-bottom: 40px;    
+}
+.keepintouch{
+    color: rgba(0, 243, 182, 1);
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(34px) !important;
+    padding-top: 39px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 39px;
+    gap: 25px;
+}
+.formrow{
+    display: flex;
+    gap: 30px;
+}
+.firstName {
+    width: 100%;
+    background-color: black; /* Black background for the input field */
+    color: white; /* White text color for contrast */
+    border: 1px solid #ccc; /* Optional border styling */
+  padding-top: 19px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+   border: 1px solid rgba(255, 255, 255, 0.2);
+   border-radius: 10px;
+  }
+  
+  
+.firstName::placeholder {
+    font-family: "Plus Jakarta Sans";
+font-size: 12px;
+font-weight: 400;
+line-height: 15.33px;
+color: rgba(255, 255, 255, 1);
+  }
+  .Submit{
+    margin-top: 5px;
+    width: 30%;
+    background-color: #0000;
+    border: 0.77px solid rgba(255, 255, 255, 1);
+       color: white;
+       border-radius: 38.41px 0 38.41px 0;
+       font-family: "Plus Jakarta Sans";
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 22.68px;
+       padding: 21px 41px;
+       cursor: pointer;
+
+       color: rgba(0, 243, 182, 1) !important;
+  }
+.div13{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.Insight{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.para13{
+    font-family: 'Poppins';
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 67px;
+    color: rgba(255, 255, 255, 1); 
+    margin-bottom: 0px;    
+}
+.div13bottom{
+    padding-top: 75px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  gap: 56px;
+}
+.div13bottom2{
+    padding-top: 40px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  gap: 56px;
+}
+.para13Untel{
+    color: rgba(0, 243, 182, 1);
+}
+.Cobot{
+    padding-top: 60px;
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+
+
+}
+.box13boxPara{
+    font-family: "Plus Jakarta Sans";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+   padding-bottom: 30px;
+   color: rgba(255, 255, 255, 1) !important;
+  
+}
+.box13{
+    backdrop-filter: blur(34px) !important;
+   background: rgba(255, 255, 255, 0.0.5) !important;
+   width: 80%;
+   display: flex;
+  padding: 35px;
+   border: 1px solid rgba(255, 252, 252, 0.2);
+   border-radius: 50px 0px 50px 0px;
+   gap: 30px;
+}
+.div14{
+    display: flex;
+    background-color: transparent;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.div14left{
+    width: 80%;
+    padding-top: 129px;
+    padding-bottom: 128px;
+    padding-left: 123px;
+}
+.newsletter{
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28.11px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 15px;
+}
+.subscribe{
+font-family: 'Poppins';
+font-size: 55px;
+font-weight: 600;
+line-height: 67px;
+color: rgba(255, 255, 255, 1); 
+margin-bottom: 25px;    
+}
+.subscribenews{
+    color: rgba(0, 243, 182, 1) !important;
+}
+.message-container {
+    display: flex;
+    align-items: center;
+    background-color: #1a1a2e; /* Dark background color */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Border with transparency */
+    border-radius: 15px; 
+    max-width: 500px; 
+    height: 51px;
+  }
+  
+  .message-input {
+    flex: 1; /* Takes up the remaining space */
+    background-color: transparent; /* Transparent background */
+    color: rgba(255, 255, 255, 1);
+    border: none; /* Remove default border */
+    padding: 10px; 
+    font-family: "Plus Jakarta Sans";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.33px;
+    padding-left: 25px;
+   
+  }
+  
+  .message-input::placeholder {
+    color: rgba(255, 255, 255, 0.5); /* Placeholder text color */
+  }
+  
+  .subscribe-button {
+    border-left: 1px solid rgba(255, 255, 255, 0.2) !important;
+    background-color: transparent; /* Transparent button background */
+   color: rgba(0, 243, 182, 1);
+    border: none; /* Remove default border */
+    cursor: pointer; /* Pointer cursor for button */
+    font-size: 12px; /* Font size for button text */
+    padding: 18px 31px 18px 35px;  /* Padding inside the button */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .subscribe-button:hover {
+    color: #00e5ff; /* Hover color for the button */
+  }
+  .sociall{
+    padding-right: 10%;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    gap: 40px;
+  }
+  .social{
+    font-family: "Plus Jakarta Sans";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.6px;
+    color: rgba(255, 255, 255, 1);
+  }
+  .finalFooter{
+    padding-top: 25px;
+    display: flex;
+    padding-left:5% ;
+    padding-right: 10%;
+    padding-bottom: 60px;
+    position: relative;
+  }
+  .finalFooter::before {
+    content: "";
+    position: absolute;
+    top: 0; /* Position at the top of the container */
+    left: 0;
+    right: 0;
+    height: 2px; /* Adjust thickness of the "border" */
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0) 100%);
+  }
+  .socialApp{
+    display: flex;
+    gap: 20px;
+    flex-grow: 1;
+  }
+  .copyRight p{
+color: rgba(107, 117, 137, 1);
+font-family: 'Plus Jakarta Sans';
+font-size: 18px;
+font-weight: 400;
+line-height: 22.4px;
+  }
+
 @media (max-width: 1000px) {
     .innerBoxes{
         align-items: center;
@@ -408,6 +1030,46 @@ padding-right: 5%;
         display: flex;
         flex-direction: column;
        }
+       .div5Image{
+       display: none;
+    }
+    .div6{
+        display: flex;
+        flex-direction: column;
+    }
+    .div6left img{
+        width: 100%;
+    }
+     .div5text{
+        width: 70%;
+     }
+     .div6Para{
+        width: 80%;
+     }
+     .div9boxess{
+        flex-direction: column;
+     }
+     .div10row{
+        flex-direction: column;
+     }
+     .div11{
+        flex-direction: column;
+     }
+     .div12{
+        flex-direction: column;
+     }
+     .box13{
+        width: 100%;
+     }
+     .div13bottom{
+flex-direction: column;
+     }
+    .div13bottom2{
+flex-direction: column;
+     }
+    .div14{
+        flex-direction: column;
+    }
 }
 @media (max-width: 786px) {
     .letsHorizon{
@@ -435,6 +1097,15 @@ padding-right: 5%;
     .div2Image img{
         width: 90%;
     }
+    .boxPara{
+        font-size: 14px;
+    }
+    .machineLearning{
+        font-size: 18px;
+    }
+    .servicesss p {
+        font-size: 14px;
+    }
     .div2Text{
         align-items: center;
     justify-content: center;
@@ -446,6 +1117,119 @@ padding-right: 5%;
     .div3{
         padding-bottom: 0;
     }
+
+    .div6Para{
+        width: 100%;
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .about{
+        font-size: 18px;
+     }
+     .empoweringPeople{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .div51para{
+        font-size: 14px;
+     }
+     .mavhines {
+        font-size: 18px;
+     }
+     .div52subpara{
+        font-size: 14px;
+     }
+     .div6Para{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .Team {
+        font-size: 18px;
+     }
+     .teamPara{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .div7box{
+        padding: 3%;
+     }
+     .machineee{
+        font-size: 18px;
+     }
+     .testimonial{
+        font-size: 18px;
+     }
+     .succour{
+        font-size: 40px;
+        line-height: 55px;
+     }
+     .div8para{
+        font-size: 14px;
+     }
+     .project9{
+        font-size: 18px;
+     }
+     .ourproject9{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .div10pricing{
+        font-size: 18px;
+     }
+     .div10our{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .robots{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .loremPara{
+        font-size: 18px;
+     }
+     .div11paraaa{
+        font-size: 14px;
+     }
+     .plsdiv p{
+        font-size: 14px;
+     }
+     .contect{
+        font-size: 18px;
+     }
+     .stayCalm{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .div11image img{
+        width: 100%;
+     }
+     .div12image img{
+        width: 100%;
+     }
+     .Insight{
+        font-size: 18px;
+     }
+     .para13{
+        line-height: 50px;
+        font-size: 40px;
+     }
+     .Cobot{
+        font-size: 18px;
+     }
+     .box13boxPara{
+    font-size: 14px;
+     }
+     .newsletter{
+        font-size: 18px;
+     }
+     .subscribe{
+        font-size: 40px;
+        line-height: 50px;
+     }
+     .finalFooter{
+        flex-direction: column;
+        gap: 20px;
+     }
 }
 @media (max-width: 629px) {
     .box{
@@ -475,4 +1259,58 @@ padding-right: 5%;
   .div2Para{
     font-size: 14px;
   }
+.div5text{
+    width: 100%;
+ }
+ .div7boxes{
+    flex-direction: column;
+ }
+ .div7box{
+   width: 100%;
+ }
+ .clickhere{
+    width: 90%;
+    
+}
+.Submit{
+    width: 90%;
+}
+.div8Rowboxes{
+    flex-direction: column;
+}
+.div9box{
+    flex-direction: column;
+    padding-left: 5%;
+}
+.Microscope{
+    width: 100%;
+}
+.div8{
+    padding-left: 5%;
+}
+.div10box{
+    padding: 40px 30px 40px 30px;
+}
+.box13{
+    flex-direction: column;
+}
+.div14left{
+    padding-left: 5%;
+}
+.copyRight p{
+    font-size: 14px;
+}
+.sociall{
+    gap: 10px;
+    padding: 2%;
+}
+.social{
+    font-size: 14px;
+}
+
+}
+@media (max-width: 629px) {
+    .Microscope{
+        width: 80%;
+    }
 }
